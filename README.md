@@ -24,8 +24,7 @@ As I solve exercises for practice, I will keep adding them to this repository.
 ## Additional Information:
 All solutions have been tested and approved on the BeeCrowd and LeetCode platforms. You can rely on them as a trusted study resource.
 
-BeeCrowd Platform Link: https://www.beecrowd.com.br/judge/en/login
-
-LeetCode Platform Link: https://leetcode.com/problemset/
+- [BeeCrowd Platform](https://www.beecrowd.com.br/judge/en/login)
+- [LeetCode Problem Set](https://leetcode.com/problemset/)
 
 ### Enjoy the solutions and happy studying!🚀
