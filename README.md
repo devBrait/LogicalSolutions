@@ -4,8 +4,6 @@
 
 - C#: Most frequently used for exercises.
 - C
-- DART
-- PYTHON
 - PostgreeSQL
 
 As I solve exercises for practice, I will keep adding them to this repository.
